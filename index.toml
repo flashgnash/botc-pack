@@ -43,8 +43,18 @@ hash = "83f893fc77eb4186677454bd38e3a7da78f657c943fe066929321edca29d1eda"
 metafile = true
 
 [[files]]
+file = "mods/camerapture.pw.toml"
+hash = "3cc79a406a67f07707ed8676b1b5786d2112547dca4df21757ea5e54c7cfe72d"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
 metafile = true
 
 [[files]]
@@ -80,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "31535a06bf76553e83bd982eb3df9158b815cb7d0207a3fc719758d020d683b7"
+metafile = true
+
+[[files]]
+file = "mods/disguiseheads.pw.toml"
+hash = "b046ce0ceb6e608c11a55c21c2624c91e6a814787541c3e6db4c587935ab9980"
 metafile = true
 
 [[files]]
@@ -143,6 +158,16 @@ hash = "2913d10709d12f7dc98a02dc865d3676ed1b9347f0c0b5bb76267e530be6b899"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/hang-glider.pw.toml"
+hash = "5e191142156533f1d94eb828787929c8dffb5dd441b2eb1905e2a9d4845a3d83"
+metafile = true
+
+[[files]]
 file = "mods/idle-boost.pw.toml"
 hash = "30cda0f0dcfa7662dd9ef10b508099af126ca14cb3a9d929aa8e40aec5ee71cf"
 metafile = true
@@ -198,6 +223,31 @@ hash = "7d5af9f25bc04dd33ec6e55983f7c660d0802461ecad3b5a820dd05dfcef2f70"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "f1746f7abc78b5a149212d295b903cfc232477b1abd9e2050e5d4af3acc530b5"
+metafile = true
+
+[[files]]
+file = "mods/polaroidcamera.pw.toml"
+hash = "51cc9e900729b9fbf6c80408c9f59399b2f7391ee4560961b67c32c4e7983193"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
+metafile = true
+
+[[files]]
+file = "mods/real-nicknames.pw.toml"
+hash = "4e8e3db112664fdf999ef70e744446e83b5035b3ee2fe8f839a1a1e4a3e0711c"
+metafile = true
+
+[[files]]
 file = "mods/redirected.pw.toml"
 hash = "11cbbaf278ce1068acd4c48465a4eddc021493898cd1af4cf3df453d9371fb60"
 metafile = true
@@ -215,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "272b27d64cd27b909567437683287909b35de9f78db27214efb1d5e4334f9f82"
+metafile = true
+
+[[files]]
+file = "mods/sizeshiftingpotions.pw.toml"
+hash = "4d1a0108c7fe48883e276608db902c7e8db95fba99186738a564b274b263d6db"
 metafile = true
 
 [[files]]

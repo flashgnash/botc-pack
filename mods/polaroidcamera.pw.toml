@@ -1,0 +1,13 @@
+name = "Polaroid Camera "
+filename = "polaroidcamera-1.8.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9dPDuh0K/versions/EriBIQgx/polaroidcamera-1.8.5.jar"
+hash-format = "sha512"
+hash = "611e66648c8742ace242311c363fc68e98bb0de1c5346f7088e306b582ea3ff7d634b74df1585543cb0cdc65b619a55bc000106df3b7752d112a7967b50b8a9f"
+
+[update]
+[update.modrinth]
+mod-id = "9dPDuh0K"
+version = "EriBIQgx"
