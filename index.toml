@@ -43,6 +43,11 @@ hash = "83f893fc77eb4186677454bd38e3a7da78f657c943fe066929321edca29d1eda"
 metafile = true
 
 [[files]]
+file = "mods/camera-obscura.pw.toml"
+hash = "a35f0b521d50e08508da35d33315a2c3612eecdce69f5f9c0c2711f4b7da5a98"
+metafile = true
+
+[[files]]
 file = "mods/camerapture.pw.toml"
 hash = "3cc79a406a67f07707ed8676b1b5786d2112547dca4df21757ea5e54c7cfe72d"
 metafile = true
