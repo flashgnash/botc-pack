@@ -1,0 +1,13 @@
+name = "Idle Boost"
+filename = "idle_boost-fabric-1.2.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/REC6ythZ/versions/fgCNU8NR/idle_boost-fabric-1.2.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "c84e51e55d650f907031bbb288aa61fe6d9660dd0642dfab7ea308ece86389656d88029e3ad7e2b563d430bdb8c036cf2b2c0b726e419b39c75668dd1cf58930"
+
+[update]
+[update.modrinth]
+mod-id = "REC6ythZ"
+version = "fgCNU8NR"

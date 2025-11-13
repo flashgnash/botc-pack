@@ -1,0 +1,13 @@
+name = "Botc Pack"
+author = "flashgnash"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2af4e14b81b067c04babaa9afb1283882452b0ffe2f61926bbfd9c2616126f30"
+
+[versions]
+fabric = "0.18.0"
+minecraft = "1.21.1"
